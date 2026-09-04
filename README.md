@@ -125,5 +125,5 @@ Kotri, Sindh, Pakistan
 <br>
 
 <div align="center">
-<sub>Built with Next.js, coffee, and a healthy fear of downtime.</sub>
+<sub>Built with coffee, and a healthy fear of downtime.</sub>
 </div>
