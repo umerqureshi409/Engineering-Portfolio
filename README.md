@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/front-bg.jpg" alt="Umer Qureshi portfolio — hero preview" width="820">
+  <img src="assets/cursor-reveal.png" alt="Umer Qureshi portfolio — hero preview" width="820">
 </p>
 
 <br>
